@@ -1,7 +1,7 @@
 {
     "name": "nightmare/jmessage",
     "type": "library",
-    "version": "1.2.1",
+    "version": "1.2.0",
     "description": "基于极光官方，修改一些问题，增加一些功能",
     "keywords": ["jiguang", "jmessage", "API Client"],
     "homepage": "https://github.com/CreationLee/jmessage-api-php-client",
