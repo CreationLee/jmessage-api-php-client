@@ -1,15 +1,15 @@
 {
-    "name": "jiguang/jmessage",
+    "name": "nightmare/jmessage",
     "type": "library",
     "version": "1.1.13",
-    "description": "JMessage's officially supported PHP client library for accessing JMessage APIs.",
+    "description": "改了个bug",
     "keywords": ["jiguang", "jmessage", "API Client"],
-    "homepage": "https://github.com/jpush/jmessage-api-php-client",
+    "homepage": "https://github.com/CreationLee/jmessage-api-php-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "JiGuang",
-            "email": "support@jpush.cn",
+            "name": "leekun",
+            "email": "leekun030@qq.cn",
             "homepage": "https://www.jiguang.cn"
         }
     ],
