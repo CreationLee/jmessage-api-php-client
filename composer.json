@@ -9,8 +9,7 @@
     "authors": [
         {
             "name": "leekun",
-            "email": "leekun030@qq.cn",
-            "homepage": "https://www.jiguang.cn"
+            "email": "leekun030@qq.cn"
         }
     ],
     "require": {
